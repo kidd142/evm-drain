@@ -70,14 +70,24 @@ You'll be prompted to enter an **Access Key**.
 
 ### **4️⃣ Enter Access Key**
 When prompted, enter a **64-character access key** to start wallet monitoring.
-📢 **Need an access key? Contact me on Telegram:** [@kidd142](https://t.me/kidd142)
+
+---
+📢 **DEMO access key here its free:**
+- ✅ **Key**: `e0235b502987511e2cf6188816324583812215df6c0ac4110122bc63491d24d3`
+- ❌ **Expires**: 2025-03-19T22:20:10.885Z
+- ✅ **Key**: `e7e61782b142ac57090eb6b12a0b37dc47c8359a30cc78885cdeaab8c7aa9071`
+- ❌ **Expires**: 2025-03-19T22:20:10.891Z
+
+---
+📢 **Need more access key? Contact me on Telegram:** [@kidd142](https://t.me/kidd142)
+
 ---
 
 ### **5️⃣ Wallet Monitoring & Auto Withdrawals**
-- The script:
-  1. Checks wallet balances every 5 seconds.
-  2. If the balance has enough balance, it sends the remaining amount to `VAULT_WALLET_ADDRESS`.
-  3. Displays transaction history.
+The script:
+  - Checks wallet balances every 5 seconds.
+  - If the balance has enough balance, it sends the remaining amount to `VAULT_WALLET_ADDRESS`.
+  - Displays transaction history.
 
 ```
 🔄 Wallet Balances:
@@ -115,10 +125,10 @@ Press `Ctrl + C` to stop the script.
 ---
 
 ## 🛠 Troubleshooting
-❌ **Missing Environment Variables**: Ensure `.env` contains valid values.
-❌ **Access Key Issues**: Check if the entered key is 64 characters long.
-❌ **WebSocket Errors**: Ensure the WebSocket URL is correct and active.
-❌ **Insufficient Funds Error**: Ensure wallets have enough ETH to cover gas fees.
+- ❌ **Missing Environment Variables**: Ensure `.env` contains valid values.
+- ❌ **Access Key Issues**: Check if the entered key is 64 characters long.
+- ❌ **WebSocket Errors**: Ensure the WebSocket URL is correct and active.
+- ❌ **Insufficient Funds Error**: Ensure wallets have enough ETH to cover gas fees.
 
 ---
 ### Contribution
