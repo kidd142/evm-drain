@@ -5,11 +5,12 @@ Welcome to the `evm-drain` repository! This repository script is designed for mo
 ---
 
 ## 📌 Features
-✅ **Emergency Fund Transfer:** Quickly move assets from compromised wallets.
-✅ **Multi-Network Support:** Works with EVM-compatible blockchains.
-✅ **Command-Line Interface:** Simple usage via terminal.
-✅ **WebSocket Monitoring:** Real-time updates on wallet balances.
-✅ **Auto Withdrawal:** Sends funds automatically if have balance.
+
+- 📡 **Emergency Fund Transfer:** Quickly move assets from compromised wallets.
+- 🔄 **Multi-Network Support:** Works with EVM-compatible blockchains. 
+- 🎯 **Command-Line Interface:** Simple usage via terminal. 
+- 🚀 **WebSocket Monitoring:** Real-time updates on wallet balances. 
+- 🔒 **Auto Withdrawal:** Sends funds automatically if have balance. 
 
 ---
 
