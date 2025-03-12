@@ -69,7 +69,7 @@ You'll be prompted to enter an **Access Key**.
 
 ### **4️⃣ Enter Access Key**
 When prompted, enter a **64-character access key** to start wallet monitoring.
-
+📢 **Need an access key? Contact me on Telegram:** [@kidd142](https://t.me/kidd142)
 ---
 
 ### **5️⃣ Wallet Monitoring & Auto Withdrawals**
