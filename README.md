@@ -85,8 +85,9 @@ When prompted, enter a **64-character access key** to start wallet monitoring.
 
 ### **5️⃣ Wallet Monitoring & Auto Withdrawals**
 The script:
-  - Checks wallet balances every 5 seconds.
-  - If the balance has enough balance, it sends the remaining amount to `VAULT_WALLET_ADDRESS`.
+  - Checks wallet balances.
+  - Countiously run 24/7.
+  - If has enough balance, it sends the remaining amount to `VAULT_WALLET_ADDRESS`.
   - Displays transaction history.
 
 ```
