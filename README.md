@@ -71,15 +71,9 @@ You'll be prompted to enter an **Access Key**.
 ### **4️⃣ Enter Access Key**
 When prompted, enter a **64-character access key** to start wallet monitoring.
 
----
-📢 **DEMO access key here its free:**
-- ✅ **Key**: `e0235b502987511e2cf6188816324583812215df6c0ac4110122bc63491d24d3`
-- ❌ **Expires**: 2025-03-19T22:20:10.885Z
-- ✅ **Key**: `e7e61782b142ac57090eb6b12a0b37dc47c8359a30cc78885cdeaab8c7aa9071`
-- ❌ **Expires**: 2025-03-19T22:20:10.891Z
 
 ---
-📢 **Need more access key? Contact me on Telegram:** [@kidd142](https://t.me/kidd142)
+📢 **Need access key? Contact me on Telegram:** [@kidd142](https://t.me/kidd142)
 
 ---
 
