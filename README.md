@@ -73,7 +73,7 @@ When prompted, enter a **64-character access key** to start wallet monitoring.
 
 
 ---
-📢 **Need more access key? Contact me on Telegram:** [@kidd142](https://t.me/kidd142)
+📢 **Need access key? Contact me on Telegram:** [@kidd142](https://t.me/kidd142)
 
 ---
 
